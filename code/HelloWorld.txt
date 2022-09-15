@@ -1,0 +1,6 @@
+PHP: echo "Hello world";
+Python: print ("Hello world")
+NodeJS / Javascript: console.log ("Hello world")
+.NET / C#: Console.Writeline("Hello World");
+C: printf ("Hello world");
+Java: System.out.println("hello world");
